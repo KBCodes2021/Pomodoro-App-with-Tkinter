@@ -1,0 +1,1 @@
+Tomato timer app made with Tkinter and math. To help remind when breaks should be taken in between work sessions
